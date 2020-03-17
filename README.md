@@ -11,7 +11,7 @@ The aim of this project was to utilise supervised machine learning models to inv
 
 We chose four models to use, a basic linear regression, K Nearest Neighbours, Random Forest and a Support Vector Machine. Each of these were created as predictors for whether a flight would be delayed on takeoff or not. Each model will take the input of the flight data and inform the individual who makes a query. 
 
-##
+## Conclusion
 
 Given the current state of the flight industry during the current pandemic, we feel that this tool will be invaluable in the coming months as the economic and social world changes. In order for people to be adequately informed of potential issue with their flights, we are offering a service which will allow people easy access to this relevant information. As the quarantine lifts in the future, the air economy could be vastly oversubscribed as people seek to travel after their ban. We hope to offer some level of protection to the consumer once this occurs.  
 
